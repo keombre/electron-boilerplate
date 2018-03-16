@@ -9,7 +9,7 @@ function createWindow () {
   let args = {
     width: 768,
     height: 500,
-    icon: 'app/main.ico',
+    icon: 'release/main.ico',
     frame: false,
     minWidth: 768,
     minHeight: 500,
