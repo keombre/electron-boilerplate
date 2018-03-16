@@ -1,6 +1,6 @@
 /// <reference types="jest" />
 describe('Host', () => {
-  test('PlaceHolderPassingTest', () => {
+  it('should pass', () => {
     expect(1 + 2).toBe(3)
   })
 })

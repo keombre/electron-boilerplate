@@ -1,6 +1,6 @@
 /// <reference types="jest" />
 describe('GUI', () => {
-  test('PlaceHolderFailingTest', () => {
+  it('should fail', () => {
     expect(1 + 2).toBe(4)
   })
 })
